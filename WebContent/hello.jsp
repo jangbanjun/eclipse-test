@@ -12,5 +12,6 @@
 	<h2>Second Branch에서 추가한내용</h2>
 	this sentence is inserted from github
 	<h3>conflict test from master</h3>
+	<h3>conflict test from second</h3>
 </body>
 </html>
